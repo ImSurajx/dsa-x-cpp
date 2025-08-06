@@ -8,6 +8,8 @@ int main(){
     cout<< x-y<<endl;
     cout<< x*y<<endl;
     cout<< x/y<<endl;
+    float d = 2/7.0;
+    cout<<d;
     return 0;
     /*
     computer always convert small data types into bigger data types
