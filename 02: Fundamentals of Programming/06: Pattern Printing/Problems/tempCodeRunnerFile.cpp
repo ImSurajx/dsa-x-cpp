@@ -1,0 +1,1 @@
+nspt, nstt, nspl, nst
